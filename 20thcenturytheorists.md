@@ -1,0 +1,23 @@
+Khan Academy proudly states on its website "168,382,612 lessons delivered," something that always reminds me of the slogan that used to accompany McDonalds' golden arches:  "[over 200 billion served](http://overhowmanybillionserved.blogspot.com/)."  (I hope) We know better than to equate the billions of Big Macs sold with billions of healthy bodies or a well-fed world. Yet we still often equate "lessons delivered" with "learning," as though their delivery necessarily offers a substantive intellectual nutrition.
+
+Of course, Khan Academy is hardly the only organization that refers to the intersection of education and technology in terms of the potential for enhanced "content delivery." Technology, so the argument goes, will make education scalable, replicable, accessible, distributable and simultaneously both standardized and personalized.  With technology, information is more easily transmissible -- through a series of tubes, right into your brain.  The promise, as exemplified by the great actor [Keanu Reeves](http://www.audreywatters.com/2010/07/30/keanu-reeves-greatest-living-actor/):  an instantaneous and profound "whoa, I know Ju Jitsu."  
+
+This notion of education as a "content delivery system" isn't just the purview of science fiction. It's also political fantasy. We've long had the notion that young and impressionable minds can simply be cracked open by a teacher (or parent or priest) and filled with the appropriate knowledge of reading, writing, and arithmetic (and/or scripture).  
+
+And now, technology will purportedly make all this occur more efficiently.
+
+Education as "content delivery" is a formulation that fits nicely into Silicon Valley's larger vision about what Internet technologies offers the world -- the tubes are designed for delivery after all. And there have been plenty of claims lately that technology is poised to "disrupt education" just as it [did other content industries](http://www.theatlantic.com/technology/archive/2012/07/tyler-cowen-everywhere-will-be-like-the-music-industry/259344/):  movies, music, magazines, books, newspapers.
+
+Many elements of our education system are recognizably akin to a "content industry" -- the curriculum and the textbooks (and supplemental materials), boosted by the [Common Core State Standards](http://www.corestandards.org/), the canon, [*Cultural Literacy*](http://www.amazon.com/gp/product/0394758439/ref=as_li_ss_tl?ie=UTF8&tag=hackeduc-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0394758439) and debates about the sorts of things that "every educated person should know".  
+
+But even if there is an agreed-upon set of things people are expected to learn -- content, skills, behaviors -- education is much more than a content industry, and both as a system and as a process is much more complex than "content delivery."
+
+The *delivery* of content is a unidirectional act.  Think radio. Think television. Think textbooks. Think educational videos. One entity controls the content and its dispersal; other entities are receptacles, ready to receive it, download it, view it, mark it as read, and when tested later, recall and regurgitate it.  Think too the stereotypical view of teacher, standing in front of the class "delivering lessons." 
+
+There is little to no discussion or inquiry. There is no creation of knowledge.  Content is packaged and delivered -- whether as a computer program or as a classroom performance.
+
+To conceive of education this way, with or without the assistance of technology, runs counter to the tenets of progressive education, counter to [John Dewey](http://en.wikipedia.org/wiki/John_Dewey)'s calls for hands-on and project-based learning, counter to [Seymour Papert](http://en.wikipedia.org/wiki/Seymour_Papert)'s calls for constructing knowledge. Instead it echoes what [Paolo Freire](http://en.wikipedia.org/wiki/Paulo_Freire) called the "banking model of education" -- the notion that students are empty accounts into which teachers deposit knowledge, a process that Freire argued was politically oppressive and dehumanizing to both teachers and students.  
+
+On the contrary, learning, these theorists (and others) argue, should occur through discovery and meaning-making not simply through listening or "lesson delivery."  
+
+As Papert argued, education technology does not need to entail "content delivery." What then should we make of the ways in which we conflate of "content delivery system”?
