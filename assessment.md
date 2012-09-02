@@ -30,7 +30,10 @@ Another Canadian educator and connectivist [Stephen Downes has suggested](http:/
 
 >Imagine receiving academic credit for contributing well-received resources into open source repositories, whether as software, art, photography, or educational resources. Imagine receiving credit for long-lasting additions to Wikipedia or similar online resources (we would have to fix Wikipedia, as it is now run by a gang of thugs known as 'Wikipedia editors'). We can have wide-ranging and nuanced evaluations of such contributions, not simple grades, but something based on how the content contributed is used and reused across the net (this would have the interesting result that your assessment could continue to go up over time).
 
+Assessments in their current form are something that we do *to* students (and increasingly the entire U.S. school system is focused on standardized assessments as the measurements of how well things are being *done*). But as many scholars argue, this needn't be the only way we think about assessments, and there are ways to re-imagine things so that learners have more responsibility and more agency in the process. 
+
 **Related**:
+Cathy Davidson. [How to Crowdsource Grading](http://hastac.org/blogs/cathy-davidson/how-crowdsource-grading)
 Edutopia's [Assessment Guide](http://www.edutopia.org/assessment-guide)
 [National Center for Research on Evaluation, Standards, and Student Testing](http://www.cse.ucla.edu/)
 Doug Belshaw, “[Evaluation: The Absolute Basics](http://dougbelshaw.com/blog/2012/08/16/evaluation-the-absolute-basics/).”
