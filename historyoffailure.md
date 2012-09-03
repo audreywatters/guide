@@ -6,16 +6,26 @@ But even 1960 is still over 50 years ago. The point, evident in each of these hi
 
 ##A Very Abbreviated Timeline of Ed-Tech##
 
->**1953**: The University of Houston offers televised, for-credit college classes via KUHT, the first public television station in the U.S.
+**1953**: The University of Houston offers televised, for-credit college classes via KUHT, the first public television station in the U.S.
+
 **1960**:  PLATO, a computer-assisted instruction system, is developed at the University of Illinois at Urbana-Champaign
+
 **1967**:  Seymour Papert creates Logo, an educational programming language
+
 **1969**: The Department of Defense commissions ARPANET
+
 **1976**: The Open University in the UK makes its first classes available online
+
 **1978**:  [CUE](http://www.cue.org/), Computer Using Educators, is founded
+
 **1979**:  [ISTE](http://iste.org), the International Society for Technology in Education, is founded
+
 **1989**: Tim Berners-Lee proposes the World Wide Web
+
 **1997**:  The learning management system [Blackboard](http://blackboard.com) is founded
+
 **2001**:  [MIT Opencourseware](http://ocw.mit.edu) is founded, making the contents of MIT’s undergraduate courses available as free and openly licensed materials 
+
 **2010**: Steve Jobs unveils the iPad, Apple’s tablet computing device
 
 ##Why Has Ed-Tech Failed?##
