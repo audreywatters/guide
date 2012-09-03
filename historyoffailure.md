@@ -6,7 +6,7 @@ But even 1960 is still over 50 years ago. The point, evident in each of these hi
 
 ##A Very Abbreviated Timeline of Ed-Tech##
 
-**1953**: The University of Houston offers televised, for-credit college classes via KUHT, the first public television station in the U.S.
+>**1953**: The University of Houston offers televised, for-credit college classes via KUHT, the first public television station in the U.S.
 **1960**:  PLATO, a computer-assisted instruction system, is developed at the University of Illinois at Urbana-Champaign
 **1967**:  Seymour Papert creates Logo, an educational programming language
 **1969**: The Department of Defense commissions ARPANET
