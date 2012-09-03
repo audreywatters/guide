@@ -1,5 +1,3 @@
-Peer Instruction
-
 In a “traditional” college classroom, the professor stands at the front of the hall and lectures — sometimes out of a textbook, sometimes off of notes, sometimes with PowerPoint slides. Students are supposed to come to class, sit, listen, and take notes, but there’s very little there to make students critically engaged in understanding the class materials.
 
 To correct the deficiencies identified with this type of teaching — known as “direct instruction” — Harvard University physics professor Eric Mazur developed in the early 1990s a method called “peer instruction” that’s meant to actively engage students in what have typically been large, lecture-focused undergraduate classes.
