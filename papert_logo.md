@@ -18,7 +18,7 @@ The most popular and best known Logo environment involved the Turtle. Originally
 
 The Turtle had three attributes: a location, a direction, and a pen (which in turn could have a color and/or a width). The Turtle moves based on the commands relative to its position.  “right 45,” for example, turns the Turtle 45 degrees to the right, then “forward 5” moves the Turtle forward from that new direction. The Turtle can repeat a command — “repeat 4 [forward 50 right 90]” — and also be taught new words:
 
->to square
+to square
 repeat 4 [forward 50 right 90]
 end
 
@@ -33,6 +33,7 @@ In addition to the Lego Mindstorm kit, there are other educational programming t
 **Resources**
 
 [Logo Foundation](http://el.media.mit.edu/logo-foundation/)
+
 Papert, Seymour. [Mindstorms: Children, Computers, and Powerful Ideas](http://books.google.com/books/about/Mindstorms.html?id=HhIEAgUfGHwC) 
 
  
